@@ -1,2 +1,2 @@
-# gamemakerPlatformGame
-Juego de plataforma utilizando la herramienta GameMaker Studio
+# PROYECTO FINAL PARA EL CURSO DE VIDEOJUEGOS 1
+
