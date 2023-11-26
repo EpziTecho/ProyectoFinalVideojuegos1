@@ -9,6 +9,7 @@
     <sound>sound\snd_die</sound>
     <sound>sound\snd_coin</sound>
     <sound>sound\snd_gameover</sound>
+    <sound>sound\soundtrack</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_der</sprite>
@@ -19,6 +20,12 @@
     <sprite>sprites\spr_moneda</sprite>
     <sprite>sprites\spr_castle</sprite>
     <sprite>sprites\sprite7</sprite>
+    <sprite>sprites\sprite8_spr_Boton_Ayuda_0</sprite>
+    <sprite>sprites\sprite9_spr_Boton_Jugar_0</sprite>
+    <sprite>sprites\sprite_title</sprite>
+    <sprite>sprites\sprite_name</sprite>
+    <sprite>sprites\sprite_scape</sprite>
+    <sprite>sprites\sprite10_spr_Boton_Salir_0</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_fondo</background>
@@ -34,6 +41,15 @@
     <background>background\nivel2bg</background>
     <background>background\tilesnivel2fondo</background>
     <background>background\tiles_vida</background>
+    <background>background\Untitled Project</background>
+    <background>background\Untitled Project (1)</background>
+    <background>background\BG2</background>
+    <background>background\BG3</background>
+    <background>background\BG1</background>
+    <background>background\Decors</background>
+    <background>background\forest_background2</background>
+    <background>background\descarga (1)</background>
+    <background>background\Ruins_Game_Tileset_Pixel_Art2_PhotoRoom_png_PhotoRoom</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\pth_fantasma1</path>
@@ -51,13 +67,19 @@
     <object>objects\obj_castle</object>
     <object>objects\obj_vidas</object>
     <object>objects\obj_menu</object>
+    <object>objects\obj_Boton_Ayuda</object>
+    <object>objects\obj_Boton_Jugar</object>
+    <object>objects\Title</object>
+    <object>objects\name_title</object>
+    <object>objects\scape</object>
+    <object>objects\obj_Boton_Salir</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room5</room>
     <room>rooms\rm_level0</room>
     <room>rooms\rm_level1</room>
     <room>rooms\rm_level2</room>
     <room>rooms\rm_highscore</room>
-    <room>rooms\rm_portada</room>
   </rooms>
   <constants number="3">
     <constant name="GRAVEDAD">1</constant>
