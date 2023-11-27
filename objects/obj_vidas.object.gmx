@@ -211,18 +211,22 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>713</id>
+        <id>514</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
+        <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_draw_life</functionname>
+        <functionname>action_draw_text</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>Vidas: </string>
+          </argument>
           <argument>
             <kind>0</kind>
             <string>view_xview+10</string>
@@ -231,9 +235,33 @@
             <kind>0</kind>
             <string>view_yview+30</string>
           </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>714</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_life_images</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
-            <kind>1</kind>
-            <string>Vidas: </string>
+            <kind>0</kind>
+            <string>view_xview+70</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>view_yview+30</string>
+          </argument>
+          <argument>
+            <kind>5</kind>
+            <sprite>sprite15</sprite>
           </argument>
         </arguments>
       </action>

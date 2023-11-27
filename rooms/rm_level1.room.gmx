@@ -282,6 +282,8 @@
     <instance objName="obj_bloque" x="832" y="1728" name="inst_A73CD8BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bloque" x="1120" y="1488" name="inst_81984F1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bloque" x="1376" y="2032" name="inst_0665D73D" locked="0" code="" scaleX="1" scaleY="-34" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bloque" x="48" y="432" name="inst_2BB1CF77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bloque" x="64" y="688" name="inst_DDFB6B27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tilesnivel2fondo" x="0" y="1344" w="2000" h="100" xo="0" yo="0" id="10005532" name="inst_4B398395" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -570,8 +572,8 @@
     <tile bgName="tilesnivel2fondo" x="1376" y="1440" w="2000" h="100" xo="48" yo="16" id="10006090" name="inst_E595C47A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tilesnivel2fondo" x="1216" y="1472" w="2000" h="100" xo="48" yo="16" id="10006091" name="inst_41C45FFE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tilesnivel2fondo" x="544" y="1488" w="2000" h="100" xo="48" yo="16" id="10006092" name="inst_A84D9367" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tilesnivel2fondo" x="16" y="1504" w="2000" h="100" xo="48" yo="16" id="10006093" name="inst_B44DE437" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tilesnivel2fondo" x="0" y="1440" w="2000" h="100" xo="48" yo="16" id="10006094" name="inst_CBB1DEBF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tilesnivel2fondo" x="0" y="1536" w="2000" h="100" xo="48" yo="16" id="10006093" name="inst_B44DE437" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tilesnivel2fondo" x="0" y="1440" w="2000" h="100" xo="0" yo="0" id="10007257" name="inst_68CDF6B3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
