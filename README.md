@@ -44,5 +44,6 @@ El juego no solo busca entretener, sino también fomentar la apreciación de las
 ![Captura de Pantalla 1](https://i.imgur.com/zD7Exrd.png)
 ![Captura de Pantalla 1](https://i.imgur.com/KaMucSk.png)
 ![Captura de Pantalla 1](https://i.imgur.com/iMkTc1S.png)
-![Captura de Pantalla 1](https://i.imgur.com/KaMucSk.png)
+![Captura de Pantalla 1](https://i.imgur.com/EtTKdDK.png)
+![Captura de Pantalla 1](https://i.imgur.com/3LxgwUX.png)
 
