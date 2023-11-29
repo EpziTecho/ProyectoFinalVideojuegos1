@@ -65,7 +65,7 @@
     <object>objects\obj_jugador</object>
     <object>objects\obj_fantasma</object>
     <object>objects\obj_moneda</object>
-    <object>objects\obj_castle</object>
+    <object>objects\obj_punto</object>
     <object>objects\obj_vidas</object>
     <object>objects\obj_menu</object>
     <object>objects\obj_Boton_Ayuda</object>
@@ -76,7 +76,7 @@
     <object>objects\obj_Boton_Salir</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room5</room>
+    <room>rooms\rm_portada</room>
     <room>rooms\rm_level0</room>
     <room>rooms\rm_level1</room>
     <room>rooms\rm_level2</room>

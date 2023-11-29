@@ -51,7 +51,7 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_castle" x="2128" y="1904" name="inst_4E574149" locked="0" code="nivel=3;&#xA;" scaleX="0.0963855385780334" scaleY="0.0740740746259689" colour="4294967295" rotation="0"/>
+    <instance objName="obj_punto" x="2128" y="1904" name="inst_4E574149" locked="0" code="nivel=3;&#xA;" scaleX="0.0963855385780334" scaleY="0.0740740746259689" colour="4294967295" rotation="0"/>
     <instance objName="obj_bloque" x="80" y="2032" name="inst_4FF95B85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bloque" x="96" y="2032" name="inst_74DA6A23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bloque" x="112" y="2032" name="inst_AFA7EDEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

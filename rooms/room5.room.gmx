@@ -178,7 +178,7 @@
     <instance objName="obj_horizontal" x="992" y="2016" name="inst_EBAC28D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_horizontal" x="1008" y="2016" name="inst_F71B2080" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_horizontal" x="1024" y="2016" name="inst_7D2BA051" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_castle" x="2048" y="1840" name="inst_2127EC44" locked="0" code="nivel=1;&#xA;" scaleX="1.13999998569489" scaleY="1.21000003814697" colour="4294967295" rotation="0"/>
+    <instance objName="obj_punto" x="2048" y="1840" name="inst_2127EC44" locked="0" code="nivel=1;&#xA;" scaleX="1.13999998569489" scaleY="1.21000003814697" colour="4294967295" rotation="0"/>
     <instance objName="obj_jugador" x="16" y="1982" name="inst_E8CD405A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Boton_Jugar" x="320" y="1680" name="inst_05BD7E72" locked="0" code="" scaleX="0.699999988079071" scaleY="0.699999988079071" colour="4294967295" rotation="0"/>
     <instance objName="obj_Boton_Ayuda" x="347" y="1738" name="inst_84415565" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>

@@ -210,7 +210,7 @@
     <instance objName="obj_fantasma" x="1664" y="2000" name="inst_8B22905D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_fantasma" x="1936" y="2000" name="inst_97713C01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_fantasma" x="976" y="1808" name="inst_4114A5A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_castle" x="2048" y="1840" name="inst_2127EC44" locked="0" code="nivel=1;&#xA;" scaleX="1.13999998569489" scaleY="1.21000003814697" colour="4294967295" rotation="0"/>
+    <instance objName="obj_punto" x="2048" y="1840" name="inst_2127EC44" locked="0" code="nivel=1;&#xA;" scaleX="1.13999998569489" scaleY="1.21000003814697" colour="4294967295" rotation="0"/>
     <instance objName="obj_moneda" x="496" y="2016" name="inst_3D100A54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_moneda" x="512" y="2016" name="inst_5B89EADB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_moneda" x="656" y="1888" name="inst_3B6AA3B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

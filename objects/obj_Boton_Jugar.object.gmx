@@ -53,11 +53,11 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>-100</sound>
+            <sound>snd_jump</sound>
           </argument>
           <argument>
             <kind>3</kind>
-            <string>1</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>

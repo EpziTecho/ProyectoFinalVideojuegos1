@@ -150,7 +150,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_castle">
+    <event eventtype="4" ename="obj_punto">
       <action>
         <libid>1</libid>
         <id>408</id>
@@ -457,7 +457,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -1121,7 +1121,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>room5</room>
+            <room>rm_portada</room>
           </argument>
         </arguments>
       </action>
