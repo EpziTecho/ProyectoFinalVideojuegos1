@@ -40,3 +40,6 @@ El juego no solo busca entretener, sino también fomentar la apreciación de las
 - La elección de Game Maker para el desarrollo del juego demostró ser acertada, destacando su versatilidad y accesibilidad que facilitaron el éxito del proyecto.
 
 ---
+
+![Captura de Pantalla 1](https://i.imgur.com/zD7Exrd.png)
+
