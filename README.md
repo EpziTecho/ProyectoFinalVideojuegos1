@@ -40,10 +40,12 @@ El juego no solo busca entretener, sino también fomentar la apreciación de las
 - La elección de Game Maker para el desarrollo del juego demostró ser acertada, destacando su versatilidad y accesibilidad que facilitaron el éxito del proyecto.
 
 ---
+## Capturas de Pantalla
 
-![Captura de Pantalla 1](https://i.imgur.com/zD7Exrd.png)
-![Captura de Pantalla 1](https://i.imgur.com/KaMucSk.png)
-![Captura de Pantalla 1](https://i.imgur.com/iMkTc1S.png)
-![Captura de Pantalla 1](https://i.imgur.com/EtTKdDK.png)
-![Captura de Pantalla 1](https://i.imgur.com/3LxgwUX.png)
+![Captura de Pantalla 1](https://i.imgur.com/zD7Exrd.png) | ![Captura de Pantalla 2](https://i.imgur.com/KaMucSk.png)
+--- | ---
+![Captura de Pantalla 3](https://i.imgur.com/iMkTc1S.png) | ![Captura de Pantalla 4](https://i.imgur.com/EtTKdDK.png)
+![Captura de Pantalla 5](https://i.imgur.com/3LxgwUX.png) | 
+
+---
 
